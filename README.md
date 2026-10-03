@@ -1,0 +1,2 @@
+# SpaceX_Analytics
+🚀 SpaceX Fleet Performance & Starlink Analytics Dashboard  Just built a custom 2-page Power BI dashboard tracking SpaceX launches and Starlink constellation health in a sleek, dark-themed UI.  Key Features: 🔹 Custom Container Layout: Native Power BI containers for crisp, pixel-perfect UI. 🔹 Starlink Analytics: Satellite active share (92.68%), orbital height distribution, and live coverage mapping. 🔹 Fleet Metrics: YoY launch dynamics, success rate (88.29%), reuse rates, and launchpad analytics.  
